@@ -6,8 +6,7 @@ Most recent ratification DAO vote:
 
 The above ratified version shall be held as master operating document for LiqwidDAO. Any divergent code in this repo or a fork is provisional until ratified.
 
-Document based substantially on: https://github.com/lexDAO/LexDAO-Constitution
-
+Document based substantially on: https://github.com/lexDAO/LexDAO-Constitution and https://github.com/ADAOcommunity/ADAO-Constitution
 
 
 
