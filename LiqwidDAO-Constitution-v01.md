@@ -1,13 +1,21 @@
-### Originally Adopted July 24, 2020
-### As Amended June 15, 2022 and ratified by supermajority June 29, 2022
+#### Constitution of the LiqwidDAO Community Association
+
+### Originally Adopted 15th August, 2022, Cardano Epoch 357
+
+## Preamble
+As Liqwid ecosystem participants and builders on the Cardano blockchain, the members of LiqwidDAO pool resources to create this organization that will be of service to our diverse community. Our founding team members consists of highly driven individuals from all corners of the globe, each bringing their uniqie identities, worldviews and experiences. We build in unison as a team with a collective vision to provide the DAO and DeFi products that will allow us to coordinate and transact in a novel web3 model that prioritizes transparency and fairness above all else. 
+
+Our team strives to implement the organization's operational model in accordance with the core fundamentals decentralized public blockchains represent. Our objectives shall be community shaped, our documenation open source, and our outcomes auditable to all. The LiqwidDAO will leverage Agora on-chain governance modules for proposal submission, voting and other community governance actions. The Liqwid Community Discord (NEED INVITE LINK) is open to all and includes a #gov-discussion and #temp-check channels used to catalyze discussion on specific governance ideas. The LiqwidDAO governance forum (NEED INVITE LINK) allows anyone to submit temperature checks and proposals in a more formal setting meant for long form debates and discussions on specific proposals. The goal of using off-chain governance channels and forums is to build an inclusive system where all individuals who wish to participate in governance have the opportunity, and Agora on-chain governance scripts that guarantees that the decision of the majority shall be executed to move the protocol forward. Anyone may join or leave the DAO freely while we collaborate on the development of open source tools that are used by everyone but owned by no one.
+
+In natural alignment with Cardano's on-chain governance system Project Catalysyt, the goal of our organization shall be the same: Provide a safe and lively environment for you to explore the highest potential of human collaboration.
 
 # Article I - Organization
 
-**Section 1.1 - Status.**  LexDAO Club (referred to in this agreement as "LexDAO") is an unincorporated nonprofit association under Wyo. Stat. Title 17, Ch. 22 of the laws of the State of Wyoming.
+**Section 1.1 - Status.**  LiqwidDAO Community Assosication (referred to in this agreement as "LiqwidDAO") is an unincorporated nonprofit decentralized autonomous organization operating on the Cardano blockchain.
 
-LexDAO is not intended to be, and shall not be deemed to be, a partnership.
+LiqwidDAO is not intended to be, and shall not be deemed to be, a partnership.
 
-**Section 1.2 - Purposes.** LexDAO is organized to form a club of legal engineering professionals, united to innovate and bring the traditional legal settlement layer to code, and coded agreements to the masses. We believe that everyone deserves access to justice provided in a quick and efficient manner. If legal services were easier to use, verify, and enforce, we could live in a fairer world. Distributed ledger technology offers solutions to many problems in the legal space. Our mission is to research, develop and evangelize first-class legal methods and blockchain protocols that secure rules and promises with code rather than trust. We do this by training LexDAO-certified legal engineers and building LexDAO-certified blockchain applications. We strive to balance new deterministic tools with the equitable considerations of law to better serve citizens on a cooperative and nonprofit basis for the primary and mutual benefit of its members and common good.
+**Section 1.2 - Purposes.** LiqwidDAO is organized to form a club of legal engineering professionals, united to innovate and bring the traditional legal settlement layer to code, and coded agreements to the masses. We believe that everyone deserves access to justice provided in a quick and efficient manner. If legal services were easier to use, verify, and enforce, we could live in a fairer world. Distributed ledger technology offers solutions to many problems in the legal space. Our mission is to research, develop and evangelize first-class legal methods and blockchain protocols that secure rules and promises with code rather than trust. We do this by training LexDAO-certified legal engineers and building LexDAO-certified blockchain applications. We strive to balance new deterministic tools with the equitable considerations of law to better serve citizens on a cooperative and nonprofit basis for the primary and mutual benefit of its members and common good.
 
 **Section 1.3 - Not a Law Firm and Not Your Lawyer.** LexDAO is not a law firm and does not  give legal advice.  Any information or artifacts provided by LexDAO or its members does not, and is not intended to, constitute professional legal opinions; instead, all information, content, and materials are for general informational, academic commentary and educational purposes only.  
 
