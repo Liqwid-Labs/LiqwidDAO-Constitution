@@ -1,5 +1,4 @@
-#### Constitution of the LiqwidDAO Community Association
-
+## Constitution of the LiqwidDAO Community Association
 ### Originally Adopted 15th August, 2022, Cardano Epoch 357
 
 ## Preamble
