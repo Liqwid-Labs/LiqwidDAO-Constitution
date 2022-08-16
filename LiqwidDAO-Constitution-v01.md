@@ -193,7 +193,7 @@ It is not anticipated that LiqwidDAO will ever turn a “profit” as excess cap
 
 (s) **“Lien”** means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset.
 
-(g) **“LiqwidDAO Property"** means any Token or other asset, right or property licensed to or on deposit with or owned, held, custodied, controlled or possessed by or on behalf of ADAO, including any Token on deposit with or held, controlled, possessed by or on deposit with the Designated Smart Contract.
+(g) **“LiqwidDAO Property"** means any Cardano Native Token or other asset, right or property licensed to or on deposit with or owned, held, custodied, controlled or possessed by or on behalf of LiqwidDAO, including any token held, controlled, possessed by or on deposit with the Designated Smart Contract.
 
 (t) **“Material Adverse Exception Event”** means that one or more of the following has occurred, is occurring or would reasonably be expected to occur:
 
