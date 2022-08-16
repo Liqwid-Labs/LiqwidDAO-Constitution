@@ -43,9 +43,12 @@ Our Mission Statement (may be updated via governance): LiqwidDAO is organized as
 
 Members shall fall into one or more of the following categories:
 
-Governance Token Holders are individuals who hold the LiqwidDAO Token (LQ). Governance Token Holders are responsible for deciding the priorities of the DAO through the proposal voting process.  No assets may be moved out of the DAO treasury without a vote of Governance Token Holders and all program coordination is formalized through on-chain votes on proposals.
+Governance Token Holders are individuals who hold the LiqwidDAO Token (LQ). LQ Governance Token Holders are responsible for deciding the priorities of the DAO through the proposal voting process.  No assets may be moved out of the DAO treasury without a vote of Governance Token Holders and all program coordination is formalized through on-chain votes on proposals.
 Active Contributors are community volunteers who dedicate their time to structured "subDAO" teams named Core Units. Individuals who contribute can claim bounties from the DAO treasury and use any LQ Governance Tokens they receive to submit proposals and vote on initiatives the DAO should start next.
 Community Associates are any member of the Cardano community who chooses to associate with LiqwidDAO. Even if an individual does not yet hold any LQ Governance Tokens they may actively participate in community governance discussions that shape future DAO initiatives.
+
+**LQ Governance Token Policy ID**: da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24
+LQ Mint Transaction Hash: 344c26673b9256b10e215d86095d9eb3c63def4b5a31cf50f12d4a133024eabc
 
 **Section 2.3 - Rights.** LiqwidDAO Members shall utilize the “Designated Smart Contract” (an Agora smart contract deployed to the Cardano Blockchain at the Designated Blockchain Address as the exclusive method of proposal submission and voting, holding, distributiing tokens to the LiqwidDAO Members, and spending of any tokens that are LiqwidDAO property. LiqwidDAO may also utilize the Designated Smart Contract to administer and facilitate certain other operational processes and transactions involving LiqwidDAO, the LiqwidDAO Members and/or third party contributors.
 
