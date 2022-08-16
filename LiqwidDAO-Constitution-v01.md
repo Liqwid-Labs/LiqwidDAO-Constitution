@@ -87,18 +87,29 @@ The LiqwidDAO Core Contributors group is not required and may be created or disb
 
 **Section 3.5 - Quorum and Constitutional Revision.** The LiqwidDAO Handbook (Operating System) shall provide a written explanation of the voting mechanism and voting majority and quorum requirements of LiqwidDAO. A supermajority (75%) vote with two weeks public notice is required to update this constitution. A vote in such a prescribed manner will satisfy and supercede any governance voting requirement.
 
-# Article IV - Fiscal and Miscellaneous Matters
+# Article IV - Member Meetings and Matters.
 
-**Section 4.1 - Fiscal year.** The fiscal year of LexDAO shall be the calendar year beginning January 1st and ending December 31st.
+**Section 4.1 - Meetings.** Member meetings shall be described on a basis at the discretion of its membership on the Designated Communication Platform. Typically, meetings are set on weekly cadence through internet chat which is where parties agree to conduct such business as may properly come before the meeting. The purpose of meetings will be for LiqwidDAO members to discuss governance proposals that may be voted upon and other DAO matters as may be appropriate.
 
-**Section 4.2 - Indemnification.** LexDAO shall indemnify LexDAO members that hold positions specified in the LexDAO Handbook (Operating System) who are duly operating in the interest of LexDAO, and may indemnify other persons as permitted under Wyoming law by a vote of LexDAO Members. Indemnification payments shall be made on a priority basis but only in such increments and at such times as will not jeopardize the ability of LexDAO to pay its other obligations as they become due.
+**Section 4.2 - Special Meetings.** Special meetings of members may be called by the LiqwidDAO Core Contributors as needed.
 
-**Section 4.3 - Communication by electronic means.** Unless otherwise required by law or by agreement, any notice, vote, consent, petition, or other oral or written communication required or permitted can be delivered by electronic means, provided that, in the case where such communication expressly or impliedly requires the signature of the person submitting the communication, means are in place to reasonably assure the authenticity of the signature.
+**Section 4.3 - Time and Place.** The date, time and place of all meetings of the LiqwidDAO Core Contributors shall be determined by the LiqwidDAO Core Contributors team or, in the event that the LiqwidDAO Core Contributors group fails to act, by a call for vote via the LQ Governance Token Holders.
 
+**Section 4.4 - Notice.** The Membership is responsible for monitoring votes of concern on the Designated Smart Contract. Notice of votes can be set up by LQ Governance Token Holders via the Designated Smart Contract and when successful proposals are executed in the Designated Communication Platform. Notices of meetings shall also be posted on LiqwidDAO’s official social media and the Designated Communication Platform including the member information roster, although failure to do so shall not affect the validity of the meeting. Any business conducted at a Members meeting other than that specified in the notice of the meeting shall be of an advisory nature only.
 
-# Article V - Severability
+**Section 4.5 - General Quorum.** The LiqwidDAO Handbook (“Handbook”) shall provide a written explanation of the voting mechanism and voting quorum requirements of LiqwidDAO. All actions using a software agent (e.g. Cardano script), treasury, membership and voting are governed by the Designated Smart Contract.
 
-**Section 5.1 - Severability.** In the event that any provision of this Constitution is determined to be invalid or unenforceable under any statute or rule of law, then such provision shall be deemed inoperative to such extent and shall be deemed modified to conform with such statute or rule of law without affecting the validity or enforceability of any other provision of this Constitution.
+# Article V - Partnerships
+
+**Section 5.1 - Purpose of Partnerships.** In order to further its mission LiqwidDAO may establish joint venture partnerships with other organizations in the Cardano network, other blockchain networks, or any other sector around the world.
+
+**Section 5.2 - Negotiating Partnerships.** The terms and conditions of Partnerships shall be negotiated by the Core Contributors and other Active Participants who may be selected. In order to respect the privacy of potential partners these discussions may be held in "closed-door" sessions that are not open to the public or general Members. However, no partnership agreement may be proposed without full details of what shall be built or provided by any organization taking part in the agreement.
+
+**Section 5.3 - Conflicts of Interest.** Any potential conflicts of interest held by partnership negotiators, LiqwidDAO Core Contributors, LiqwidDAO Core Unit team leads, or partner organization leadership shall be disclosed to the LiqwidDAO Membership when a partnership proposal is presented. This shall include but is not limited to affiliation with the partner organization, significant holdings of tokens issued by the partner organization, and proposed individual compensation of LiqwidDAO contributors. LiqwidDAO Membership shall determine whether a potential conflict of interest is disqualifying or can be managed with appropriate mitigation strategies overseen by an unbiased individual or entity.
+
+**Section 5.4 - Ratifying Partnerships.**  Partnerships shall be ratified through the proposal process. Prospective partnerships may be announced but will not have official standing until the related proposal is passed.
+
+**Section 5.5 - Partnership Limitations.** LiqwidDAO reserves the right to withdraw from a partnership at any time by a vote of Membership through the proposal process. All products made for partnerships shall follow the development spirit of LiqwidDAO to place code under an open license. The participation in a joint venture partnership to create a specific product or engage in a project shall not be confused with a general partnership where a new business enttity is created.
 
 # Article VI - Definitions
 
