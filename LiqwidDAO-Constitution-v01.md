@@ -55,7 +55,7 @@ This Designated Smart Contract shall contain the human coordination rules of Liq
 
 **Section 2.4 - Responsibilities.** By accepting and retaining membership each applicant shall agree to use the products or services of LiqwidDAO on at least an occasional basis. Each member shall keep reasonably current on the state of the DAO by reviewing correspondence from the LiqwidDAO social media channels or connecting with other LiqwidDAO members in the designated collaboration platforms. 
 
-If you are engaging with LiqwidDAO products and tools, have received any LQ Governance Tokens or are otherwise a DAO Member, you consent to contact and agree to become legally bound by this Agreement as both a LiqwidDAO participant and a "LiqwidDAO Member".
+If you are engaging with LiqwidDAO products and tools, have received any LQ Governance Tokens or are otherwise a DAO Member, you consent to contact and agree to become legally bound by this Agreement as both a LiqwidDAO participant and a "LiqwidDAO Member". All LiqwidDAO Members agree to act in accordance with the standards of professional conduct outlined in the LiqwidDAO Handbook (Operating System) and posted in the Designated Communication Platform. 
 
 **Section 2.5 - Limitations.**  Status as a LiqwidDAO Member does not (and shall not be deemed to) create, and the LiqwidDAO Membership rights do not (and shall not be deemed to) include, any authority, right or power on the part of a LiqwidDAO Member to act as the agent, representative or attorney of or otherwise act on behalf of LiqwidDAO or any other Member, to bind LiqwidDAO or any other Member to any Contract or Liability or to convey any LiqwidDAO property or any asset, right or property owned or held by or on behalf of LiqwidDAO or any Member. Without limiting the generality of the foregoing, no Member shall be deemed to be the partner of LiqwidDAO or any other Member. No Member shall state, purport, imply, hold out or represent to any person that such Member or any other Member has any such authority, right or power.
 
@@ -71,7 +71,7 @@ To the maximum extent permitted by applicable law, no Member shall be (or shall 
 
 **Section 2.10 - Withdrawal and Expulsion.** A Member may withdraw at any time by divesting themselves of all LQ Governance Tokens and publicly declaring, through a Cardano Transaction signed by their wallet, that they are formally disassociating.
 
-A Member may be expelled by LiqwidDAO through the Member Removal procedure established in section 2.6 of this document and adopted by the Membership. Upon termination of Membership, all rights and interests in LiqwidDAO shall cease.
+A Member may be expelled by LiqwidDAO through the Member Removal procedure established in section 2.6 of this document and adopted by the Membership. Upon termination of Membership, all rights and interests in LiqwidDAO shall cease. 
 
 # Article III - Community Governance
 
@@ -111,7 +111,24 @@ The LiqwidDAO Core Contributors group is not required and may be created or disb
 
 **Section 5.5 - Partnership Limitations.** LiqwidDAO reserves the right to withdraw from a partnership at any time by a vote of Membership through the proposal process. All products made for partnerships shall follow the development spirit of LiqwidDAO to place code under an open license. The participation in a joint venture partnership to create a specific product or engage in a project shall not be confused with a general partnership where a new business enttity is created.
 
-# Article VI - Definitions
+# Article VI - Member Removal and Exit
+
+**Section 6.1 - Member Removal Procedures.** Removal procedures shall be goverened by the Handbook. 
+
+**Section 6.2 - Material Adverse Exception Event.** Notwithstanding anything to the contrary set forth in Section 4, if there is a Material Adverse Exception Event, then the rules and procedures set forth in this clause shall determine the rights and obligations of the LQ Governance Token Holders relating to the LiqwidDAO property.
+
+**Section 6.3 - Member Management Procedures.** All LiqwidDAO Members agree to act in accordance with the standards of professional conduct outlined in the Handbook and posted in the Designated Communication Platform. In order to uphold these standards LiqwidDAO Core Contributors shall appoint LiqwidDAO account moderators who will be empowered to ban accounts from the Designated Communication Platform and block accounts on social media platforms. While banned or blocked, LQ Governance Token Holders are always eligible to vote on proposals through the Designated Smart Contract. If an individual wishes to have a banned or blocked account reinstated to good standing with LiqwidDAO they may appeal to the moderator(s) who banned them or submit a proposal to the Designated Smart Contract asking the LiqwidDAO Membership to override the ban.
+
+# Article VII - Fiscal and Miscellaneous Matters
+
+**Section 7.1 - Fiscal Year.** The fiscal year of LiqwidDAO shall be the calendar year beginning January 1st and ending December 31st.
+
+**Section 7.2 - 
+
+
+
+
+
 
 (a) **“Contract”** means any: (i) written, oral, implied by course of performance or otherwise or other agreement, contract, understanding, arrangement, settlement, instrument, warranty, license, insurance policy, benefit plan or legally binding commitment or undertaking; or (ii) any representation, statement, promise, commitment, undertaking, right or obligation that may be enforceable, or become subject to an Order directing performance thereof, based on equitable principles or doctrines such as estoppel, reliance, or quasi-contract.
 
