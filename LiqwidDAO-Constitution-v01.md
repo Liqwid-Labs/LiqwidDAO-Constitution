@@ -85,17 +85,15 @@ The LiqwidDAO Core Contributors group is not required and may be created or disb
 
 **Section 3.4 - Core Units.** Core Units shall be small teams of Active Contributors and may have one or more Core Contributors designated as the team lead. The purpose of these units shall be to carry out the DAO's operational processes and implement sustainable growth initiatives that further the mission of the DAO.
 
-**Section 3.5 - Quorum and Constitutional Revision.** The LiqwidDAO Handbook (Operating System) shall provide a written explanation of the voting mechanism and voting majority and quorum requirements of LiqwidDAO. A supermajority (75%) vote with two weeks public notice is required to update this constitution. A vote in such a prescribed manner will satisfy and supercede any governance voting requirement.
+# Article IV - Meetings of Members
 
-# Article IV - Member Meetings and Matters.
-
-**Section 4.1 - Meetings.** Member meetings shall be described on a basis at the discretion of its membership on the Designated Communication Platform. Typically, meetings are set on weekly cadence through internet chat which is where parties agree to conduct such business as may properly come before the meeting. The purpose of meetings will be for LiqwidDAO members to discuss governance proposals that may be voted upon and other DAO matters as may be appropriate.
+**Section 4.1 - Meetings.** Meetings of Members shall be described on a basis at the discretion of its membership on the Designated Communication Platform. Typically, meetings are set on weekly cadence through internet chat which is where parties agree to conduct such business as may properly come before the meeting. The purpose of meetings will be for LiqwidDAO members to discuss governance proposals that may be voted upon and other DAO matters as may be appropriate.
 
 **Section 4.2 - Special Meetings.** Special meetings of members may be called by the LiqwidDAO Core Contributors as needed.
 
 **Section 4.3 - Time and Place.** The date, time and place of all meetings of the LiqwidDAO Core Contributors shall be determined by the LiqwidDAO Core Contributors team or, in the event that the LiqwidDAO Core Contributors group fails to act, by a call for vote via the LQ Governance Token Holders.
 
-**Section 4.4 - Notice.** The Membership is responsible for monitoring votes of concern on the Designated Smart Contract. Notice of votes can be set up by LQ Governance Token Holders via the Designated Smart Contract and when successful proposals are executed in the Designated Communication Platform. Notices of meetings shall also be posted on LiqwidDAO’s official social media and the Designated Communication Platform including the member information roster, although failure to do so shall not affect the validity of the meeting. Any business conducted at a Members meeting other than that specified in the notice of the meeting shall be of an advisory nature only.
+**Section 4.4 - Notice.** The Membership is responsible for monitoring votes of concern on the Designated Smart Contract. Notice of votes can be set up by LQ Governance Token Holders via the Designated Smart Contract and when successful proposals are executed in the Designated Communication Platform. Notices of meetings shall also be posted on LiqwidDAO’s official social media and the Designated Communication Platform including the member information roster, although failure to do so shall not affect the validity of the meeting. Any business conducted at a meeting of Members other than that specified in the notice of the meeting shall be of an advisory nature only.
 
 **Section 4.5 - General Quorum.** The LiqwidDAO Handbook (“Handbook”) shall provide a written explanation of the voting mechanism and voting quorum requirements of LiqwidDAO. All actions using a software agent (e.g. Cardano script), treasury, membership and voting are governed by the Designated Smart Contract.
 
@@ -119,30 +117,95 @@ The LiqwidDAO Core Contributors group is not required and may be created or disb
 
 **Section 6.3 - Member Management Procedures.** All LiqwidDAO Members agree to act in accordance with the standards of professional conduct outlined in the Handbook and posted in the Designated Communication Platform. In order to uphold these standards LiqwidDAO Core Contributors shall appoint LiqwidDAO account moderators who will be empowered to ban accounts from the Designated Communication Platform and block accounts on social media platforms. While banned or blocked, LQ Governance Token Holders are always eligible to vote on proposals through the Designated Smart Contract. If an individual wishes to have a banned or blocked account reinstated to good standing with LiqwidDAO they may appeal to the moderator(s) who banned them or submit a proposal to the Designated Smart Contract asking the LiqwidDAO Membership to override the ban.
 
-# Article VII - Fiscal and Miscellaneous Matters
+# Article VII - Fiscal Matters
 
 **Section 7.1 - Fiscal Year.** The fiscal year of LiqwidDAO shall be the calendar year beginning January 1st and ending December 31st.
 
-**Section 7.2 - 
+**Section 7.2 Grants and Protocol Owned Liquidity.** Assets will be distributed from the treasury for only two purposes, for funding grants, which are:
+
+1. An agreed upon sum of tokens offered to contributors who do work furthering the mission of the organization.
+2. Funding for Associated Contracts that shall support work furthering the mission of the organization.
+3. Payments for services rendered by persons designated by the organization.
+
+and for Protocol Owned Liquidity (POL), which:
+
+1. Allows LiqwidDAO to own its liquidity by acquiring LP tokens from market participants on Cardano DEXs.
+2. Empowers the DAO with complete autonomy over the LP tokens & thus underlying liquidity that it accounts for.
+
+It is not anticipated that LiqwidDAO will ever turn a “profit” as excess capital will be paid out via charitable donations, grants, or other forms of support meant to carry out the Mission Statement.
 
 
+# Article VIII - Legal Matters
 
+**Section 8.1 - Legal Representatives.** LiqwidDAO shall designate individuals to serve as legal representatives of the organization. These individuals shall form a Non-profit Foundation (the "LiqwidDAO Foundation") in a physical legal jurisdiction in order to safeguard the interests of the organization and shall have the power to sign and bind for the DAO insofar as their actions are approved by DAO governance. Legal representatives of the DAO shall have their identity recorded in the metadata of a Non-Fungible Token minted on the Cardano blockchain and placed in the LiqwidDAO Treasury.
 
+**Section 8.2 - LiqwidDAO Foundation.** The LiqwidDAO Foundation shall be governed by a Board of Directors appointed by LiqwidDAO on-chain governance procedures. The foundation shall hold the DAO’s intellectual interests, property rights, and enforce any such related legal rights.
 
+**Section 8.3 - Indemnification.** The LiqwidDAO Foundation shall indemnify, defend and hold harmless its managers, officers, employees, LiqwidDAO, and LiqwidDAO Members from and against any and all loss, costs, penalties, fines, damages, claims, expenses (including attorney’s fees) or liabilities to the fullest extent possible, arising out of, resulting from, or in connection with the purpose of the LiqwidDAO Foundation, to the fullest extent of the law, and may further indemnify such persons as deemed necessary. Indemnification payments shall be made on a priority basis but only in such increments and at such times as will not jeopardize the ability of LiqwidDAO Foundation to pay its other obligations as they become due.
 
-(a) **“Contract”** means any: (i) written, oral, implied by course of performance or otherwise or other agreement, contract, understanding, arrangement, settlement, instrument, warranty, license, insurance policy, benefit plan or legally binding commitment or undertaking; or (ii) any representation, statement, promise, commitment, undertaking, right or obligation that may be enforceable, or become subject to an Order directing performance thereof, based on equitable principles or doctrines such as estoppel, reliance, or quasi-contract.
+**Section 8.4 - Communication by electronic means.** Unless otherwise required by law or by agreement, any notice, vote, consent, petition, or other oral or written communication required or permitted can be delivered by electronic means, provided that, in the case where such communication expressly or impliedly requires the signature of the person submitting the communication, means are in place to reasonably assure the authenticity of the signature.
 
-(b) **LexDAO Member** A member or user, as admitted to the LexDAO membership in a manner consistent with the terms herein, whose membership is current and is not under any suspension, revocation, or ban. 
+# Article IX - Interpretation and Amendment of Constitution
 
-(c) **“LexDAO Property"** means any Token or other asset, right or property licensed to or on deposit with or owned, held, custodied, controlled or possessed by or on behalf of LexDAO, including any Token on deposit with or held, controlled, possessed by or on deposit with the Designated Smart Contract.
+**Section 9.1 - Interpretation.** The LiqwidDAO Core Contributors (if formed via vote of LQ Governance Token Holders) shall have the power to interpret this Constitution, apply them in practice on their daily work efforts, and adopt policies in furtherance of them, provided that all such actions are reasonable and consistent.
 
-(d) **”LexDAO Platform”** means any website, platform, social media account, DAO interface, [insert others] [owned or controlled] by or on behalf of LexDAO.
+**Section 9.2 - Severability.** In the event that any provision of this Constitution is determined to be invalid or unenforceable under any statute or rule of law, then such provision shall be deemed inoperative to such extent and shall be deemed modified to conform with such statute or rule of law without affecting the validity or enforceability of any other provision of this Constitution.
 
-(e) **“Liability”** means any debt, obligation, duty or liability of any nature (including any unknown, undisclosed, unmatured, unaccrued, unasserted, contingent, indirect, conditional, implied, vicarious, inchoate derivative, joint, several or secondary liability), regardless of whether such debt, obligation, duty or liability would be required to be disclosed on a balance sheet prepared in accordance with generally accepted accounting principles and regardless of whether such debt, obligation, duty or liability is immediately due and payable. To be “Liable” means to have, suffer, incur, be obligated for or be subject to a Liability.
+**Section 9.3 - Amendment.** This Constitution may be amended by presenting the redlined version of the amendments at a meeting of members and adopted by a vote or merge request as prescribed in the Handbook. No adoption will be formal until a proposal is passed by a vote of LQ Governance Token Holders in the Designated Smart Contract. A supermajority (75%) vote with two weeks public notice is required to update this constitution.
 
-(f) **“Lien”** means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset.
+# Article X - Definitions
 
-(g) **Undoxxed Member** An anonymous or pseudonymous member who has not provided or made publicly available information to disclose their name and identity.
+(a) **“Account Address”** means a public key address on the Designated Blockchain Network that is uniquely associated with a single private key, and at which no smart contract has been deployed.
 
+(b) **“Claim”** means any past, present or future dispute, claim, controversy, demand, right, obligation, liability, action or cause of action of any kind or nature.
 
+(c ) **“Confirmation”** of a transaction shall be deemed to have occurred if and only if such transaction has been recorded in accordance with the Consensus Rules in a valid block whose hashed header is referenced by at least 12 subsequent valid blocks on the Designated Blockchain.
+
+(d) **“Consensus Attack”** means an attack that: (i) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Designated Blockchain Network; and (ii) has the actual or intended effect of: (A) reversing any transaction made to or by the Designated Smart Contract after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (B) preventing inclusion in blocks or Confirmation of any transaction made to or by the Designated Smart Contract, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect.
+
+(e) **“Consensus Rules”** means the rules for transaction validity, block validity and determination of the canonical blockchain that are embodied in the Designated Client.
+
+(f) **“Contract”** means any: (i) written, oral, implied by course of performance or otherwise or other agreement, contract, understanding, arrangement, settlement, instrument, warranty, license, insurance policy, benefit plan or legally binding commitment or undertaking; or (ii) any representation, statement, promise, commitment, undertaking, right or obligation that may be enforceable, or become subject to an Order directing performance thereof, based on equitable principles or doctrines such as estoppel, reliance, or quasi-contract.
+
+(g) **"Designated Communication Platform"** means the Community Discord server, chat room, or other such communication platform that shall be deemed the primary online venue for LiqwidDAO Members to gather. The online address of this platform shall be recorded in the metadata of a Non-Fungible Token minted on the Designated Blockchain and placed in the LiqwidDAO Treasury.
+
+(h) **“Designated Blockchain”** means at any given time, the version of the digital blockchain ledger that at least a majority of nodes running the Designated Client on the Designated Blockchain Network recognize as canonical as of such time in accordance with the Consensus Rules.
+
+(i) **“Designated Blockchain Network”** means the Cardano mainnet as recognized by the Designated Client.
+
+(j) **“Designated Client”** means the Daedalus client available at https://github.com/input-output-hk/daedalus.
+
+(k) **"Identity Token”** means a Non-Fungible Token on the Cardano Blockchain.
+
+(l) **“Designated Smart Contract”** means the LiqwidDAO Treasury smart contract holding the Identity Token on the Designated Blockchain.
+
+(m) **“Associated Smart Contract”** means any smart contract that is produced by the Designated Smart Contract for the purpose of DAO operations.
+
+(n) **“Distributed LiqwidDAO Property”** means any asset, right or property that was once LiqwidDAO Property and has been distributed to one or more DAO Members.
+
+(o) **"Identity Token”** means the Non-Fungible Token on the Cardano Blockchain.
+
+(p) **“Legal Order”** means any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.
+
+(q) **“Legal Proceeding”** means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel.
+
+(r) **“Liability”** means any debt, obligation, duty or liability of any nature (including any unknown, undisclosed, unmatured, unaccrued, unasserted, contingent, indirect, conditional, implied, vicarious, inchoate derivative, joint, several or secondary liability), regardless of whether such debt, obligation, duty or liability would be required to be disclosed on a balance sheet prepared in accordance with generally accepted accounting principles and regardless of whether such debt, obligation, duty or liability is immediately due and payable. To be “Liable” means to have, suffer, incur, be obligated for or be subject to a Liability.
+
+(s) **“Lien”** means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset.
+
+(g) **“LiqwidDAO Property"** means any Token or other asset, right or property licensed to or on deposit with or owned, held, custodied, controlled or possessed by or on behalf of ADAO, including any Token on deposit with or held, controlled, possessed by or on deposit with the Designated Smart Contract.
+
+(t) **“Material Adverse Exception Event”** means that one or more of the following has occurred, is occurring or would reasonably be expected to occur:
+
+(i) a Consensus Attack adversely affecting the results or operations of the Designated Smart Contract;
+(ii) the Designated Smart Contract having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the Designated Smart Contract or any other smart contract or oracle on which the Designated Smart Contract depends having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event, mutatis mutandis;
+(iii) a material and adverse effect on the use, functionality or performance of the Designated Smart Contract as the result of any bug, defect or error in the Designated Smart Contract or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause “(iii)”, a bug, defect or error will be deemed material only if it results in a loss to a LiqwidDAO Member or LiqwidDAO of at least 25 percent of such LiqwidDAO Member's distributable interest in LiqwidDAO Property and/or 15 percent of the LiqwidDAO Property);
+(iv) any unauthorized use of an administrative function or privilege of the Designated Smart Contract, including: (A) any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address or (B) any unauthorized use of an administrative function or privilege by a LiqwidDAO Member or a representative of a LiqwidDAO Member; or
+(v) the Designated Smart Contract, any of the LiqwidDAO Members or the LiqwidDAO Property is subject to a Legal Order that prohibits the Designated Smart Contract (or that, if the Designated Smart Contract were a Person, would prohibit the Designated Smart Contract) from executing any function or operation it would otherwise reasonably be expected to execute.
+(vi )“Person” means any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law.
+(vii) “Token” means a digital unit that is recognized by the Designated Client on the Designated Blockchain Network as capable of: (a) being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height; and (b) having Transfers of such digital unit recorded on the Designated Blockchain.
+(viii) “Transfer” of a Token to a given address (the “Receiving Address”) on the Designated Blockchain Network will be deemed to have occurred if and only if it is recognized by the Designated Client on the Designated Blockchain Network that:
+(ix) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that:(a) provides for the reassociation of the Designated Token with the Receiving Address; and (b) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and
+(x) such transaction has been confirmed.
+(u) "Member Removal" means removal from the membership via vote of LQ Governance Token Holders or other process as described in the Handbook. Unless specifically provided otherwise a Member subject to Membership Removal shall not be entitled to any distribution or return of capital, funds, retains, etc.
 
