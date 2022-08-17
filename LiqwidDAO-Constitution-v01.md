@@ -152,7 +152,7 @@ It is not anticipated that LiqwidDAO will ever turn a “profit” as excess cap
 
 **Section 9.2 - Severability.** In the event that any provision of this Constitution is determined to be invalid or unenforceable under any statute or rule of law, then such provision shall be deemed inoperative to such extent and shall be deemed modified to conform with such statute or rule of law without affecting the validity or enforceability of any other provision of this Constitution.
 
-**Section 9.3 - Amendment.** This Constitution may be amended by presenting the redlined version of the amendments at a meeting of members and adopted by a vote or merge request as prescribed in the Handbook. No adoption will be formal until a proposal is passed by a vote of LQ Governance Token Holders in the Designated Smart Contract. A supermajority (75%) vote with two weeks public notice is required to update this constitution.
+**Section 9.3 - Amendment.** This Constitution may be amended by presenting the redlined version of the amendments at a meeting of members and adopted by a vote or merge request as prescribed in the Handbook. No adoption will be formal until a proposal is passed by a vote of LQ Governance Token Holders in the Designated Smart Contract. A supermajority (75%) vote with two weeks of public notice is required to update this constitution.
 
 # Article X - Definitions
 
