@@ -2,23 +2,23 @@
 ### Originally Adopted 15th August, 2022, Cardano Epoch 357
 
 ## Preamble
-As Liqwid ecosystem participants and builders on the Cardano blockchain, the members of LiqwidDAO pool resources to create this organization that will be of service to our diverse community. Our founding team members consists of highly driven individuals from all corners of the globe, each bringing their uniqie identities, worldviews and experiences. We build in unison as a team sharing a collective vision to provide the DAO and DeFi products that will allow us to coordinate and transact in a novel web3 model that prioritizes transparency and fairness above all else. 
+As Liqwid ecosystem participants and builders on the Cardano blockchain, the members of LiqwidDAO pool resources to create this organization that will be of service to our diverse community. Our founding team members consist of highly driven individuals from all corners of the globe, each bringing their unique identities, worldviews and experiences. We build in unison as a team sharing a collective vision to provide the DAO and DeFi products that will allow us to coordinate and transact in a novel web3 model that prioritizes transparency and fairness above all else.
 
 Our team strives to implement the organization's operational model in accordance with the core fundamentals decentralized blockchain networks represent. Our objectives shall be community shaped, our documentation open source, and our outcomes auditable to all. The LiqwidDAO will leverage Agora on-chain governance modules for proposal submission, voting and other community governance actions. The Liqwid Community Discord server (https://discord.com/invite/vZzGHKGz29) is open to all and includes a #gov-discussion and #temp-check channels used to catalyze discussion on specific governance ideas. The LiqwidDAO Governance Forum (https://gov.liqwid.finance/) allows anyone to submit temperature checks and proposals in a more formal setting meant for long form debates and discussions on specific points. The goal of using off-chain governance channels and forums is to build an inclusive system where all individuals who wish to participate in governance have the opportunity, and Agora on-chain governance smart contracts that guarantees that the decision of the majority shall be executed to move the protocol forward. Anyone may join or leave the DAO freely while we collaborate on the development of open source tools that are used by everyone but owned by no one.
 
-In our natural alignment with the ethos behind Cardano's on-chain governance system Project Catalysyt, the goal of our organization shall be the same: Provide a safe and lively environment for you to explore the highest potential of human collaboration.
+In our natural alignment with the ethos behind Cardano's on-chain governance system Project Catalyst, the goal of our organization shall be the same: Provide a safe and lively environment for you to explore the highest potential of human collaboration.
 
 # Article I - Organization
 
-**Section 1.1 - Status.**  LiqwidDAO Community Assosication (referred to in this agreement as "LiqwidDAO") is an unincorporated nonprofit decentralized autonomous organization operating on the Cardano blockchain.
+**Section 1.1 - Status.** LiqwidDAO Community Association (referred to in this agreement as "LiqwidDAO") is an unincorporated nonprofit decentralized autonomous organization operating on the Cardano blockchain.
 
 LiqwidDAO is not intended to be, and shall not be deemed to be, a partnership.
 
-**Section 1.2 - Purposes.** LiqwidDAO's core purpose is to build the tools & products that deliver value to both users of the Liqwid protocol and developers building on top of it. Coordinating to innovate on the existing DeFi model and bring more traditional finance and corporate governance products on-chain using Plutus smart contracts as coded agreements accessible by anyone with a Cardano wallet. We feel strongly that decentralized finance primitives represent a level playing field in terms of access to on-chain liquidity and as a result are themselves public goods that must be freely accessible to everyone around the world, always. If traditional financial services were as accessible, transparent, and auditable as on-chain financial services we could all benefit from life in a more equitable world. Consumer and institutional lending and borrowing products could be greatly enhahnced by the composability and automation blockchain and smart contract technologies offers. 
+**Section 1.2 - Purposes.** LiqwidDAO's core purpose is to build the tools & products that deliver value to both users of the Liqwid protocol and developers building on top of it. Coordinating to innovate on the existing DeFi model and bring more traditional finance and corporate governance products on-chain using Plutus smart contracts as coded agreements accessible by anyone with a Cardano wallet. We feel strongly that decentralized finance primitives represent a level playing field in terms of access to on-chain liquidity and as a result are themselves public goods that must be freely accessible to everyone around the world, always. If traditional financial services were as accessible, transparent, and auditable as on-chain financial services we could all benefit from life in a more equitable world. Consumer and institutional lending and borrowing products could be greatly enhanced by the composability and automation blockchain and smart contract technologies offers.
 
 Our Mission Statement (may be updated via governance): LiqwidDAO is organized as a global cooperative to deploy secure DeFi and governance products and tooling that enforces financial contract parameters and human coordination rules with code as opposed to trust. We seek to introduce novel deterministic tools with open participation and sustainable growth models that don't rely on trusted parties on a cooperative and nonprofit basis.
 
-**Section 1.3 - Not a Financial Services Company.** LiqwidDAO is not organized to and shall not provide financial services, advice, or investment opportunities. The documentation created by LiqwidDAO members, with the exception of personal identifying data, shall be made available in the public domain or under an open source license depending upon the specific functionality the documentation covers. LiqwidDAO products and tools should not be misconstrued as investment opportunities; no promises are made that they will hold any monetary value or provide any monetary returns. 
+**Section 1.3 - Not a Financial Services Company.**  LiqwidDAO is not organized to and shall not provide financial services, advice, or investment opportunities. The documentation created by LiqwidDAO members, with the exception of personal identifying data, shall be made available in the public domain or under an open source license depending upon the specific functionality the documentation covers. LiqwidDAO products and tools should not be misconstrued as investment opportunities; no promises are made that they will hold any monetary value or provide any monetary returns.
 
 **Section 1.4 - Cooperative principles.** LiqwidDAO shall be operated in the spirit of cooperative principles framed by the 1995 General Assembly of the International Co-operative Alliance, including:
 
@@ -28,41 +28,40 @@ Our Mission Statement (may be updated via governance): LiqwidDAO is organized as
 4. autonomy and independence of LiqwidDAO;
 5. providing education, training and information;
 6. cooperation with other DAO cooperatives; and
-7. concern for community.
+7. concern for the community.
 
 **Section 1.5 - Nondiscrimination.** LiqwidDAO shall not arbitrarily discriminate on the basis of race, nationality, religion, age, gender, sexual orientation, disability, political affiliation, or otherwise.
 
 **Section 1.6 - Decentralized Autonomous Organization (DAO).** LiqwidDAO is a DAO, an unincorporated association of individuals, entities, associations and/or other persons or groups of persons who all agree to join together in a common purpose. For LiqwidDAO that purpose is encapsulated in our Mission Statement.
 
-**Section 1.7 - Term and Continuation of DAO.** LiqwidDAO will continue perpetually so long as Members vote to continue the activities of the organization. Should the members ever deem it necessary to cease operation of the DAO they shall transfer the treasury to community voted Trustee(s) who shall distribute the assets to charitable organizations in line with the ethos and Mission Statement of LiqwidDAO.
+**Section 1.7 - Term and Continuation of DAO.** LiqwidDAO will continue perpetually so long as Members vote to continue the activities of the organization. Should the members ever deem it necessary to cease operation of the DAO they shall transfer the treasury to community voted trustee(s) who shall distribute the assets to charitable organizations in line with the ethos and Mission Statement of LiqwidDAO.
+
 # Article II - Membership
 
 **Section 2.1 - Eligibility.** Membership shall be voluntary and application open to any individual whose purpose or presumed intent is to contribute, to build, and to use the products of LiqwidDAO and is willing to accept the responsibilities and terms of membership.
 
-**Section 2.2 - Admission.** Membership in LiqwidDAO shall be granted to all members of the Cardano community who are willing to uphold the LiqwidDAO Mission Statement and ratify the Constitution. A member of the Cardano community is anyone who possesses a Cardano wallet with stake delegated to an active stake pool. There shall be never be a requirement to contribute time to LiqwidDAO product or tooling development or assets to the LiqwidDAO Treasury.
+**Section 2.2 - Admission.** Membership in LiqwidDAO shall be granted to all members of the Cardano community who are willing to uphold the LiqwidDAO Mission Statement and ratify the Constitution. A member of the Cardano community is anyone who possesses a Cardano wallet with stake delegated to an active stake pool. There shall never be a requirement to contribute time to LiqwidDAO product or tooling development or assets to the LiqwidDAO Treasury.
 
 Members shall fall into one or more of the following categories:
 
-Governance Token Holders are individuals who hold the LiqwidDAO Token (LQ). LQ Governance Token Holders are responsible for deciding the priorities of the DAO through the proposal voting process.  No assets may be moved out of the DAO treasury without a vote of Governance Token Holders and all program coordination is formalized through on-chain votes on proposals.
-Active Contributors are community volunteers who dedicate their time to structured "subDAO" teams named Core Units. Individuals who contribute can claim bounties from the DAO treasury and use any LQ Governance Tokens they receive to submit proposals and vote on initiatives the DAO should start next.
-Community Associates are any member of the Cardano community who chooses to associate with LiqwidDAO. Even if an individual does not yet hold any LQ Governance Tokens they may actively participate in community governance discussions that shape future DAO initiatives.
+Governance Token Holders are individuals who hold the LiqwidDAO Token (LQ). LQ Governance Token Holders are responsible for deciding the priorities of the DAO through the proposal voting process. No assets may be moved out of the DAO treasury without a vote of Governance Token Holders and all program coordination is formalized through on-chain votes on proposals. Active Contributors are community volunteers who dedicate their time to structured "subDAO" teams named Core Units. Individuals who contribute can claim bounties from the DAO treasury and use any LQ Governance Tokens they receive to submit proposals and vote on initiatives the DAO should start next. Community Associates are any member of the Cardano community who chooses to associate with LiqwidDAO. Even if an individual does not yet hold any LQ Governance Tokens they may actively participate in community governance discussions that shape future DAO initiatives.
 
 **LQ Governance Token Policy ID**: da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24
 LQ Mint Transaction Hash: 344c26673b9256b10e215d86095d9eb3c63def4b5a31cf50f12d4a133024eabc
 
-**Section 2.3 - Rights.** LiqwidDAO Members shall utilize the “Designated Smart Contract” (an Agora smart contract deployed to the Cardano Blockchain at the Designated Blockchain Address as the exclusive method of proposal submission and voting, holding, distributiing tokens to the LiqwidDAO Members, and spending of any tokens that are LiqwidDAO property. LiqwidDAO may also utilize the Designated Smart Contract to administer and facilitate certain other operational processes and transactions involving LiqwidDAO, the LiqwidDAO Members and/or third party contributors.
+**Section 2.3 - Rights.** LiqwidDAO Members shall utilize the “Designated Smart Contract” (an Agora smart contract deployed to the Cardano Blockchain at the Designated Blockchain Address as the exclusive method of proposal submission and voting, holding, distributing tokens to LiqwidDAO Members, and spending of any tokens that are LiqwidDAO property. LiqwidDAO may also utilize the Designated Smart Contract to administer and facilitate certain other operational processes and transactions involving LiqwidDAO, the LiqwidDAO Members and/or third party contributors.
 
 LiqwidDAO Members’ rights and responsibilities are enforced by the use of the Designated Smart Contact which serves to facilitate LiqwidDAO community governance and other organizational activities. LiqwidDAO’s Agora instance will be deployed at the time of the v1 protocol launch. This document shall be amended to include the Designated Smart Contract's address.
 
 This Designated Smart Contract shall contain the human coordination rules of LiqwidDAO community governance to act on behalf of the DAO, and to contract on behalf of the DAO through LiqwidDAO membership vote. LiqwidDAO Members will submit votes and implement the decisions made on the Designated Smart Contract as well as any Associated Smart Contracts that are initiated by the Designated Smart Contract.
 
-**Section 2.4 - Responsibilities.** By accepting and retaining membership each applicant shall agree to use the products or services of LiqwidDAO on at least an occasional basis. Each member shall keep reasonably current on the state of the DAO by reviewing correspondence from the LiqwidDAO social media channels or connecting with other LiqwidDAO members in the designated collaboration platforms. 
+**Section 2.4 - Responsibilities.** By accepting and retaining membership each applicant shall agree to use the products or services of LiqwidDAO on at least an occasional basis. Each member shall keep reasonably current on the state of the DAO by reviewing correspondence from the LiqwidDAO social media channels or connecting with other LiqwidDAO members in the designated collaboration platforms.
 
-If you are engaging with LiqwidDAO products and tools, have received any LQ Governance Tokens or are otherwise a DAO Member, you consent to contact and agree to become legally bound by this Agreement as both a LiqwidDAO participant and a "LiqwidDAO Member". All LiqwidDAO Members agree to act in accordance with the standards of professional conduct outlined in the LiqwidDAO Handbook (Operating System) and posted in the Designated Communication Platform. 
+If you are engaging with LiqwidDAO products and tools, have received any LQ Governance Tokens or are otherwise a DAO Member, you consent to contact and agree to become legally bound by this Agreement as both a LiqwidDAO participant and a "LiqwidDAO Member". All LiqwidDAO Members agree to act in accordance with the standards of professional conduct outlined in the LiqwidDAO Handbook (Operating System) and posted in the Designated Communication Platform.
 
-**Section 2.5 - Limitations.**  Status as a LiqwidDAO Member does not (and shall not be deemed to) create, and the LiqwidDAO Membership rights do not (and shall not be deemed to) include, any authority, right or power on the part of a LiqwidDAO Member to act as the agent, representative or attorney of or otherwise act on behalf of LiqwidDAO or any other Member, to bind LiqwidDAO or any other Member to any Contract or Liability or to convey any LiqwidDAO property or any asset, right or property owned or held by or on behalf of LiqwidDAO or any Member. Without limiting the generality of the foregoing, no Member shall be deemed to be the partner of LiqwidDAO or any other Member. No Member shall state, purport, imply, hold out or represent to any person that such Member or any other Member has any such authority, right or power.
+**Section 2.5 - Limitations.** Status as a LiqwidDAO Member does not (and shall not be deemed to) create, and the LiqwidDAO Membership rights do not (and shall not be deemed to) include, any authority, right or power on the part of a LiqwidDAO Member to act as the agent, representative or attorney of or otherwise act on behalf of LiqwidDAO or any other Member, to bind LiqwidDAO or any other Member to any Contract or Liability or to convey any LiqwidDAO property or any asset, right or property owned or held by or on behalf of LiqwidDAO or any Member. Without limiting the generality of the foregoing, no Member shall be deemed to be the partner of LiqwidDAO or any other Member. No Member shall state, purport, imply, hold out or represent to any person that such Member or any other Member has any such authority, right or power.
 
-To the maximum extent permitted by applicable law, no Member shall be (or shall be deemed to be) liable for any liability of the LiqwidDAO or any other Member. This shall not (and shall not be deemed to) create or imply any obligation of LiqwidDAO or any Member to indemnify or compensate any Member from, or hold any Member harmless against, any Liabilities incurred by such DAO Member under any applicable law, in connection with the Member's participation in LiqwidDAO or otherwise.
+To the maximum extent permitted by applicable law, no Member shall be (or shall be deemed to be) liable for any liability of the LiqwidDAO or any other Member. This shall not (and shall not be deemed to) create or imply any obligation of LiqwidDAO or any Member to indemnify or compensate any Member from, or hold any Member harmless against, any liabilities incurred by such DAO Member under any applicable law, in connection with the Member's participation in LiqwidDAO or otherwise.
 
 **Section 2.6 - Inactive status.** A member who falls from good standing may have their membership revoked or suspended through the vote of LiqwidDAO Membership (each said action, a “Member Removal”). References herein to the rights and entitlements of members shall be understood to refer only to members in good standing.
 
@@ -74,7 +73,7 @@ To the maximum extent permitted by applicable law, no Member shall be (or shall 
 
 **Section 2.10 - Withdrawal and Expulsion.** A Member may withdraw at any time by divesting themselves of all LQ Governance Tokens and publicly declaring, through a Cardano Transaction signed by their wallet, that they are formally disassociating.
 
-A Member may be expelled by LiqwidDAO through the Member Removal procedure established in section 2.6 of this document and adopted by the Membership. Upon termination of Membership, all rights and interests in LiqwidDAO shall cease. 
+A Member may be expelled by LiqwidDAO through the Member Removal procedure established in section 2.6 of this document and adopted by the Membership. Upon termination of Membership, all rights and interests in LiqwidDAO shall cease.
 
 # Article III - Community Governance
 
@@ -82,7 +81,7 @@ A Member may be expelled by LiqwidDAO through the Member Removal procedure estab
 
 **Section 3.2 - Voting.** All voting of LiqwidDAO Members shall be performed on the Cardano blockchain according to the mechanisms established by the Designated Smart Contract and any Associated Smart Contracts initiated by the Designated Smart Contract. On-chain tallies of all casted votes shall be recorded on the Cardano blockchain. Any vote, poll, or call for consensus that is taken in the Designated Communication Platform, LiqwidDAO social media accounts, or any other place shall be considered non-binding and advisory in nature until a formal on-chain vote is held.
 
-**Section 3.3 - Core Contributors.** The Core Contributors shall be an advisory group made up of individuals selected from the Active Participants of LiqwidDAO. Core Contributors will be responsible for managing the administrative operations of LiqwidDAO, overseeing the social media and communication channels, and organizing meetings of LiqwidDAO members. Core Contributors may also be responsible for leading the Core Units of LiqwidDAO and serve as multi-sig trustees of any Associated Contracts generated by the Designated Smart Contract.
+**Section 3.3 - Core Contributors.** The Core Contributors shall be an advisory group made up of individuals selected from the Active Participants of LiqwidDAO. Core Contributors will be responsible for managing the administrative operations of LiqwidDAO, overseeing the social media and communication channels, and organizing meetings of LiqwidDAO members. Core Contributors may also be responsible for leading the Core Units of LiqwidDAO and serve as multisig trustees of any Associated Contracts generated by the Designated Smart Contract.
 
 The LiqwidDAO Core Contributors group is not required and may be created or disbanded according to the will of the LiqwidDAO Members. Creation and designation of the LiqwidDAO Core Contributors will be approved via the Designated Smart Contract and individuals in this role will have their identity recorded in the metadata of a Non-Fungible Token minted on the Cardano blockchain and placed in the LiqwidDAO Treasury. Core Contributors shall retain their status until such time that it expires, is revoked, or they resign from the role.
 
@@ -98,7 +97,7 @@ The LiqwidDAO Core Contributors group is not required and may be created or disb
 
 **Section 4.4 - Notice.** The Membership is responsible for monitoring votes of concern on the Designated Smart Contract. Notice of votes can be set up by LQ Governance Token Holders via the Designated Smart Contract and when successful proposals are executed in the Designated Communication Platform. Notices of meetings shall also be posted on LiqwidDAO’s official social media and the Designated Communication Platform including the member information roster, although failure to do so shall not affect the validity of the meeting. Any business conducted at a meeting of Members other than that specified in the notice of the meeting shall be of an advisory nature only.
 
-**Section 4.5 - General Quorum.** The LiqwidDAO Handbook (“Handbook”) shall provide a written explanation of the voting mechanism and voting quorum requirements of LiqwidDAO. All actions using a software agent (e.g. Cardano script), treasury, membership and voting are governed by the Designated Smart Contract.
+**Section 4.5 - Quorum.** The LiqwidDAO Handbook (“Handbook”) shall provide a written explanation of the voting mechanism and voting quorum requirements of LiqwidDAO. All actions using a software agent (e.g. Cardano script), treasury, membership and voting are governed by the Designated Smart Contract.
 
 # Article V - Partnerships
 
@@ -108,13 +107,13 @@ The LiqwidDAO Core Contributors group is not required and may be created or disb
 
 **Section 5.3 - Conflicts of Interest.** Any potential conflicts of interest held by partnership negotiators, LiqwidDAO Core Contributors, LiqwidDAO Core Unit team leads, or partner organization leadership shall be disclosed to the LiqwidDAO Membership when a partnership proposal is presented. This shall include but is not limited to affiliation with the partner organization, significant holdings of tokens issued by the partner organization, and proposed individual compensation of LiqwidDAO contributors. LiqwidDAO Membership shall determine whether a potential conflict of interest is disqualifying or can be managed with appropriate mitigation strategies overseen by an unbiased individual or entity.
 
-**Section 5.4 - Ratifying Partnerships.**  Partnerships shall be ratified through the proposal process. Prospective partnerships may be announced but will not have official standing until the related proposal is passed.
+**Section 5.4 - Ratifying Partnerships.** Partnerships shall be ratified through the proposal process. Prospective partnerships may be announced but will not have official standing until the related proposal is passed.
 
-**Section 5.5 - Partnership Limitations.** LiqwidDAO reserves the right to withdraw from a partnership at any time by a vote of Membership through the proposal process. All products made for partnerships shall follow the development spirit of LiqwidDAO to place code under an open license. The participation in a joint venture partnership to create a specific product or engage in a project shall not be confused with a general partnership where a new business enttity is created.
+**Section 5.5 - Partnership Limitations.** LiqwidDAO reserves the right to withdraw from a partnership at any time by a vote of Membership through the proposal process. All products made for partnerships shall follow the development spirit of LiqwidDAO to place code under an open license. The participation in a joint venture partnership to create a specific product or engage in a project shall not be confused with a general partnership where a new business entity is created.
 
 # Article VI - Member Removal and Exit
 
-**Section 6.1 - Member Removal Procedures.** Removal procedures shall be goverened by the Handbook. 
+**Section 6.1 - Member Removal Procedures.** Removal procedures shall be governed by the Handbook.
 
 **Section 6.2 - Material Adverse Exception Event.** Notwithstanding anything to the contrary set forth in Section 4, if there is a Material Adverse Exception Event, then the rules and procedures set forth in this clause shall determine the rights and obligations of the LQ Governance Token Holders relating to the LiqwidDAO property.
 
@@ -126,17 +125,16 @@ The LiqwidDAO Core Contributors group is not required and may be created or disb
 
 **Section 7.2 Grants and Protocol Owned Liquidity.** Assets will be distributed from the treasury for only two purposes, for funding grants, which are:
 
-1. An agreed upon sum of tokens offered to contributors who do work furthering the mission of the organization.
-2. Funding for Associated Contracts that shall support work furthering the mission of the organization.
-3. Payments for services rendered by persons designated by the organization.
+1. an agreed upon sum of tokens offered to contributors who do work furthering the mission of the organization.
+2. funding for Associated Contracts that shall support work furthering the mission of the organization.
+3. payments for services rendered by persons designated by the organization.
 
 and for Protocol Owned Liquidity (POL), which:
 
-1. Allows LiqwidDAO to own its liquidity by acquiring LP tokens from market participants on Cardano DEXs.
-2. Empowers the DAO with complete autonomy over the LP tokens & thus underlying liquidity that it accounts for.
+1. allows LiqwidDAO to own its liquidity by acquiring LP tokens from market participants on Cardano DEXs.
+2. empowers the DAO with complete autonomy over the LP tokens & thus underlying liquidity that it accounts for.
 
 It is not anticipated that LiqwidDAO will ever turn a “profit” as excess capital will be paid out via charitable donations, grants, or other forms of support meant to carry out the Mission Statement.
-
 
 # Article VIII - Legal Matters
 
